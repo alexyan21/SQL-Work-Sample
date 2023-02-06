@@ -1,12 +1,12 @@
 # SQL-Work-Sample
 ## SQL script for data cleaning and transformation
 -	Achievement: Extracted and transformed 2GB data from Google Cloud Platform, and loaded to Power BI dashboard for giving valuable insights.  
--   Thumbnail 
+-   Overview 
 <img width="988" alt="Screen Shot 2023-02-05 at 11 20 11 PM" src="https://user-images.githubusercontent.com/32621303/216889791-21edb879-0c08-439d-b28d-84fa0f36547d.png">
 
 ## SQL script for key business measures
 -	Achievement: Improved business decision efficiency improved by 80%; Improved SQL execution performance by 60% 
--	Thumbnail
+-	Overview
     - Get daily active user in the certain period of time
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/32621303/216888748-824651df-52be-4e90-b5d0-4a93c57800e2.png">
     - Get The cancellation rate of requests with unbanned users each day between a certain period
