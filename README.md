@@ -1,12 +1,12 @@
 # SQL-Work-Sample
 
--	Achievement: Improved business decision efficiency improved by 80%; Improved SQL execution performance by 60% ![image](https://user-images.githubusercontent.com/32621303/216888490-29cec951-db1f-4298-ac82-a729a23426d1.png)
+-	Achievement: Improved business decision efficiency improved by 80%; Improved SQL execution performance by 60% 
 -	SQL script samples for some important business measures/metrics
   - Get daily active user in the certain period of time
-![image](https://user-images.githubusercontent.com/32621303/216888502-8a61afcb-95f8-4355-baba-aab91ef429dc.png)
+<img width="408" alt="image" src="https://user-images.githubusercontent.com/32621303/216888748-824651df-52be-4e90-b5d0-4a93c57800e2.png">
 
   - Get The cancellation rate of requests with unbanned users each day between "2013-10-01" and "2013-10-03"
-![image](https://user-images.githubusercontent.com/32621303/216888572-45a4b132-a528-429b-a7fb-b2e53e9a05cd.png)
+<img width="458" alt="image" src="https://user-images.githubusercontent.com/32621303/216888767-06898e90-b29f-46c1-83fc-47f09d8d96a7.png">
 
   - Get second-day retention rate after registration 
-![image](https://user-images.githubusercontent.com/32621303/216888603-2e632b26-83f2-48c0-be33-0f6c9b442231.png)
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/32621303/216888778-570dd7db-dd68-4fb4-8eae-eb1ec52e2bd8.png">
